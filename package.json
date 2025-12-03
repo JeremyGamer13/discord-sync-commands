@@ -1,12 +1,12 @@
 {
-  "dependencies": {
-    "discord.js": "^13.5.0"
-  },
-  "name": "@frostzzone/discord-sync-commands",
-  "version": "0.3.0",
-  "description": "Easily keep your bot's slash commands synchronized with Discord",
+  "name": "@jeremygamer13/discord-sync-commands",
+  "version": "0.4.0-v14.0",
+  "description": "Fork updated for Discord.js v14. Easily keep your bot's slash commands synchronized with Discord",
   "main": "index.js",
-  "repository": "https://github.com/frostzzone/discord-sync-commands",
-  "author": "frostzzone <frostzzone@gmail.com>",
-  "license": "MIT"
+  "repository": "https://github.com/JeremyGamer13/discord-sync-commands",
+  "author": "JeremyGamer13",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
 }

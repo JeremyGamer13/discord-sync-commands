@@ -2,6 +2,9 @@
 
 Easily keep your bot's slash commands synchronized with Discord! 🔁
 
+## Notice
+This package is a fork of [@frostzzone/discord-sync-commands](https://github.com/frostzzone/discord-sync-commands)
+
 ## Features
 
 ⚡ No useless calls to the Discord API!  
